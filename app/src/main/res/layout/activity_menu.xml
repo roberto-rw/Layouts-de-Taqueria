@@ -55,7 +55,7 @@
             android:layout_columnWeight="1"
             android:textSize="@dimen/menu_buttons_text"
             android:paddingVertical="@dimen/menu_buttons_paddings"
-            android:id="@+id/button_hot_drinks" />
+            android:id="@+id/button_especialidades" />
 
         <Button
             android:text="@string/combinaciones"

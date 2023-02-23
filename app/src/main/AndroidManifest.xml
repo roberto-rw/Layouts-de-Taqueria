@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Practica4">
         <activity
+            android:name=".BebidasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TortasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EspecialidadesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SopasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CombinacionesActivity"
+            android:exported="false" />
+        <activity
             android:name=".ProductosActivity"
             android:exported="false" />
         <activity
