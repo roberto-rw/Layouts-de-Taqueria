@@ -14,7 +14,8 @@
     <string name="cold_drinks">Cold drinks</string>
     <string name="hot_drinks">Hot drinks</string>
     <string name="sweets">Sweets</string>
-    <string name="salties">Salties</string> <string name="combos">Combos</string>
+    <string name="salties">Salties</string>
+    <string name="combos">Combos</string>
     <string name="custom">Custom</string>
 
     <string name="antojitos">antojitos</string>
